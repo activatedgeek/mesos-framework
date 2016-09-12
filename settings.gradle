@@ -1,5 +1,1 @@
-/*
-include 'api'
-*/
-
 rootProject.name = 'mesos-framework'
